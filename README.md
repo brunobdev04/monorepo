@@ -10,5 +10,3 @@ Repositório dedicado a todo o projeto
 * name             |
 * Bruno Brito      | @brunobdev04
 * name             |
-* name             |
-* name             |
